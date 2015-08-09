@@ -1,0 +1,19 @@
+{
+    "name": "shelob9/rest-like",
+    "description": "Prepares data, using the REST API, in PHP",
+    "type": "library",
+    "license": "gplv2+",
+    "authors": [
+        {
+            "name": "Josh Pollock",
+            "email": "Josh@JoshPress.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "shelob9\\rest_like\\": "src"
+        }
+    }
+}
