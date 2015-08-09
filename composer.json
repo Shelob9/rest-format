@@ -1,6 +1,6 @@
 {
-    "name": "shelob9/rest-like",
-    "description": "Prepares data, using the REST API, in PHP",
+    "name": "shelob9/rest-format",
+    "description": "Prepares WordPress objects, using the REST API, without a seperate HTTP request",
     "type": "library",
     "license": "gplv2+",
     "authors": [
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "shelob9\\rest_like\\": "src"
+            "shelob9\\rest_format\\": "src"
         }
     }
 }

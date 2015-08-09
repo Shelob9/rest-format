@@ -2,24 +2,24 @@
 /**
  * Base class for formatting PHP WordPress objects like REST API responses.
  *
- * @package   shelob9\rest_like\format
+ * @package   shelob9\rest_format\format
  * @author    Josh Pollock <Josh@JoshPress.net>
  * @license   GPL-2.0+
  * @link
  * @copyright 2015 Josh Pollock
  */
 
-namespace shelob9\rest_like\format;
+namespace shelob9\rest_format\format;
 
 
-use shelob9\rest_like\rest_like;
+use shelob9\rest_format\rest_format;
 
 /**
  * Class post
  *
- * @package shelob9\rest_like\format
+ * @package shelob9\rest_format\format
  */
-class post extends rest_like {
+class post extends rest_format {
 
 
 	protected static $clean = array(
