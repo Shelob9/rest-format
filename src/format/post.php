@@ -10,9 +10,8 @@
  */
 
 namespace shelob9\rest_format\format;
-
-
 use shelob9\rest_format\rest_format;
+
 
 /**
  * Class post
