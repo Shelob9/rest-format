@@ -1,6 +1,6 @@
 {
     "name": "shelob9/rest-format",
-    "description": "Prepares WordPress objects, using the REST API, without a seperate HTTP request",
+    "description": "Prepares WordPress objects, using the REST API, without a separate HTTP request.",
     "type": "library",
     "license": "gplv2+",
     "authors": [
